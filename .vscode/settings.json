@@ -1,0 +1,19 @@
+{
+  "dstutils.mapRules": [
+    {
+      "mdDir": "docs/",
+      "cacheDir": "assets/cache/",
+      "codeDir": "code/",
+      "exclude": ["README", "SUMMARY"],
+      "ext": ".lua"
+    },
+    {
+      "mdDir": "zh/",
+      "cacheDir": "assets/cache/zh/",
+      "codeDir": "code/",
+      "exclude": ["README", "SUMMARY"],
+      "ext": ".lua"
+    }
+  ],
+  "docsifyPreview.port": 10813
+}

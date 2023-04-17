@@ -1,0 +1,3 @@
+- [:boat:](/docs/README.md)
+- [modinfo.md](/docs/modinfo.md)
+- [modmain.md](/docs/modmain.md)

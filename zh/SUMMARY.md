@@ -1,0 +1,3 @@
+- [:boat:](/zh/README.md)
+- [modinfo.md](/zh/modinfo.md)
+- [modmain.md](/zh/modmain.md)
