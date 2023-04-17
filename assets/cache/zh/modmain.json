@@ -1,0 +1,1 @@
+{"id":"modmain","deps":["screens/mapscreen"],"as":{},"info":"\n\n主体逻辑:\n\n在 #screens/mapscreen 构造完成时候, 通过 OnMouseButton 给 Player 添加 BufferedAction\n\n","extern":[{"id":"main","info":"\n\n1. @MakePin\n2. AddClassPostConstruct\n   1. 坐标转化\n   2. 添加移动动作\n\n"},{"id":"SetPin","info":"\n\n改变 pin Entity 的位置\n\n"}],"local":[{"id":"MakePin","info":"\n\n创建 pin 的实体(Entity)\n\n"}]}
